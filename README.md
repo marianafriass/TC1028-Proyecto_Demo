@@ -27,3 +27,5 @@ Descargar el arvhivo y correr en terminal con:
 o abrir en Thonny y dar boton de play.
 
 Responder a las preguntas que aparecen, el programa tiene instrucciones y no usa bibliotecas no standard. 
+
+gracias por visitar
